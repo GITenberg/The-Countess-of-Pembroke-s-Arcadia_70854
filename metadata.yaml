@@ -1,0 +1,56 @@
+_repo: The-Countess-of-Pembroke-s-Arcadia_70854
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Bellings, Richard
+    alias: Beling, Richard
+    deathdate: 1677
+    gutenberg_agent_id: '55958'
+    url: http://www.gutenberg.org/2009/agents/55958
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Bellings
+  - agent_name: Stirling, William Alexander, Earl of
+    alias: Alexander, William, Earl of Stirling
+    birthdate: 1567
+    deathdate: 1640
+    gutenberg_agent_id: '55967'
+    url: http://www.gutenberg.org/2009/agents/55967
+    wikipedia: https://en.wikipedia.org/wiki/William_Alexander,_1st_Earl_of_Stirling
+creator:
+  author:
+    agent_name: Sidney, Philip
+    aliases:
+    - Sydney, Philip
+    - Sidney, Philip, Sir
+    birthdate: 1554
+    deathdate: 1586
+    gutenberg_agent_id: '764'
+    url: http://www.gutenberg.org/2009/agents/764
+    wikipedia: https://en.wikipedia.org/wiki/Philip_Sidney
+  editor:
+    agent_name: Baker, Ernest A. (Ernest Albert)
+    alias: Baker, Ernest Albert
+    birthdate: 1869
+    deathdate: 1941
+    gutenberg_agent_id: '47203'
+    url: http://www.gutenberg.org/2009/agents/47203
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_A._Baker
+description: 'Wikipedia: https://en.wikipedia.org/wiki/The_Countess_of_Pembroke%27s_Arcadia'
+gutenberg_issued: '2023-05-24'
+identifiers:
+  gutenberg: '70854'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006055311
+pgterms:marc905: 20230515100917sidney
+pgterms:marc906: '1907'
+pgterms:marc907: GB
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aUnited Kingdom :$bGeorge Routledge and Sons, Ltd., $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pastoral literature, English'
+- !lcc 'PR'
+- GITenberg
+title: The Countess of Pembroke's Arcadia
+url: http://www.gutenberg.org/ebooks/70854
